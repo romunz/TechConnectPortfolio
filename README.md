@@ -2,7 +2,7 @@
 TechConnectHub is a curated repository for resources on AI, data analytics, BI, digital transformation, and consulting. Explore tools, insights, events, and courses to stay ahead in technology and business. 
 
 
-## 🗓️ Agenda 2O25
+## Agenda 2O25
 
 This folder contains a curated agenda of technology-related events happening in 2025, focusing on the intersection of cutting-edge innovation, ethical responsibility, and the growing need for inclusivity and collaboration in tech and business:
 
